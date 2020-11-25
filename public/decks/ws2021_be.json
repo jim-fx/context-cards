@@ -1,194 +1,122 @@
 [
   {
-    "id": 1606308853505,
-    "flds": "Was genau ist Leasing?\u001f<span style=\"font-style:italic\" data-token-index=\"0\" data-reactroot=\"\">Bei einem Leasing überlässt der Leasinggeber dem Leasingnehmer das Leasingobjekt zu einem definierten Zinssatz. Im Unterschied zu einem klassischen Kredit wird beim Leasing nicht Geld, sondern ein Gegenstand oder Objekt ausgeliehen.</span>",
-    "sfld": "Was genau ist Leasing?",
-    "media": [],
-    "front": "Was genau ist Leasing?",
+    "tags": ["Finanzierung"],
+    "title": "Was genau ist Leasing?",
     "back": "Was genau ist Leasing?\nBei einem Leasing überlässt der Leasinggeber dem Leasingnehmer das Leasingobjekt zu einem definierten Zinssatz. Im Unterschied zu einem klassischen Kredit wird beim Leasing nicht Geld, sondern ein Gegenstand oder Objekt ausgeliehen."
   },
   {
-    "id": 1606308909125,
-    "flds": "Was genau ist Operate Leasing?\u001f<p>Man gibt am Ende zurück was auch immer man geleast hat. Der Leasingnehmer muss nur die Nutzung bezahlen, d.h wenn z.B. eine Druckerei eine Druckmaschine least muss die Druckerei nur pro Nutzung (Druckvorgang) bezahlen</p><p>Man least z.B:</p><ul>\n<li>Universalgüter</li>\n<li>Kurzfristig kündbar</li>\n<li>Teilarmotisationsvertrag</li>\n<li>Investitionsrisiko trägt der Leasinggeber</li>\n</ul>",
-    "sfld": "Was genau ist Operate Leasing?",
-    "media": [],
-    "front": "Was genau ist Operate Leasing?",
+    "tags": ["Finanzierung"],
+    "title": "Was genau ist Operate Leasing?",
     "back": "Was genau ist Operate Leasing?\nMan gibt am Ende zurück was auch immer man geleast hat. Der Leasingnehmer muss nur die Nutzung bezahlen, d.h wenn z.B. eine Druckerei eine Druckmaschine least muss die Druckerei nur pro Nutzung (Druckvorgang) bezahlenMan least z.B:\nUniversalgüter\nKurzfristig kündbar\nTeilarmotisationsvertrag\nInvestitionsrisiko trägt der Leasinggeber"
   },
   {
-    "id": 1606309234135,
-    "flds": "Was genau ist Finanzierungsleasing?\u001fBeim Finanzierungsleasing wird das Wirtschaftsgut gegen eine feste Leasingrate für eine bestimmte Grundmietzeit überlassen. Während der Grundmietzeit kann der Vertrag nicht gekündigt werden. Der Leasing-Nehmer muss die objektbezogenen Risiken tragen. Hierzu gehören das Risiko von Zerstörung oder Diebstahl.<div><br></div><div>Meistens in Verbindung mit einem Vollarmotisationsvertrag.</div>",
-    "sfld": "Was genau ist Finanzierungsleasing?",
-    "media": [],
-    "front": "Was genau ist Finanzierungsleasing?",
+    "tags": ["Finanzierung"],
+    "title": "Was genau ist Finanzierungsleasing?",
     "back": "Was genau ist Finanzierungsleasing?\nBeim Finanzierungsleasing wird das Wirtschaftsgut gegen eine feste Leasingrate für eine bestimmte Grundmietzeit überlassen. Während der Grundmietzeit kann der Vertrag nicht gekündigt werden. Der Leasing-Nehmer muss die objektbezogenen Risiken tragen. Hierzu gehören das Risiko von Zerstörung oder Diebstahl.\n\nMeistens in Verbindung mit einem Vollarmotisationsvertrag."
   },
   {
-    "id": 1606309263380,
-    "flds": "Was ist ein Teilamortisationsvertrag?\u001f<font color=\"#535353\" face=\"DaxWeb, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji\"><span style=\"font-size: 19px;\">Im Gegensatz zur Vollamortisation verbleibt bei der <b>Teilamortisation </b>zum Ende der Leasingdauer ein <b>Restwert</b>. Deshalb spricht man auch vom „Restwert-Leasing“. Das heißt, die vereinbarten Leasingraten reichen nicht aus, um die Gesamtkosten des Leasing-Gebers abzudecken. Nach Vertragsende gibt es verschiedene Varianten. Das Objekt kann durch eine dritte Person gekauft, zurückgegeben oder das Leasing auf Basis der Restkalkulation verlängert werden. Auch andere Vertragsgestaltungen sind üblich.</span></font><br>",
-    "sfld": "Was ist ein Teilamortisationsvertrag?",
-    "media": [],
-    "front": "Was ist ein Teilamortisationsvertrag?",
+    "tags": ["Finanzierung"],
+    "title": "Was ist ein Teilamortisationsvertrag?",
     "back": "Was ist ein Teilamortisationsvertrag?\nIm Gegensatz zur Vollamortisation verbleibt bei der Teilamortisation zum Ende der Leasingdauer ein Restwert. Deshalb spricht man auch vom „Restwert-Leasing“. Das heißt, die vereinbarten Leasingraten reichen nicht aus, um die Gesamtkosten des Leasing-Gebers abzudecken. Nach Vertragsende gibt es verschiedene Varianten. Das Objekt kann durch eine dritte Person gekauft, zurückgegeben oder das Leasing auf Basis der Restkalkulation verlängert werden. Auch andere Vertragsgestaltungen sind üblich."
   },
   {
-    "id": 1606309342139,
-    "flds": "Was ist ein Vollarmortisationsvertrag?\u001fEin Vollarmorisationsvertrag ist ein Leasingvertrag, bei dem am Ende der Leasingdauer der Leasingnehmer dem Leasinggeber den kompletten Wert des Leasingegenstandes überwiesen hat. Der Gegenstand gehört nun dem Leasingnehmer.",
-    "sfld": "Was ist ein Vollarmortisationsvertrag?",
-    "media": [],
-    "front": "Was ist ein Vollarmortisationsvertrag?",
+    "tags": ["Finanzierung"],
+    "title": "Was ist ein Vollarmortisationsvertrag?",
     "back": "Was ist ein Vollarmortisationsvertrag?\nEin Vollarmorisationsvertrag ist ein Leasingvertrag, bei dem am Ende der Leasingdauer der Leasingnehmer dem Leasinggeber den kompletten Wert des Leasingegenstandes überwiesen hat. Der Gegenstand gehört nun dem Leasingnehmer."
   },
   {
-    "id": 1606309477678,
-    "flds": "Was ist die&nbsp;Vertikale Kapitalstrukturregel?\u001fDie vertikale Kapitalstrukturregel besagt das die passive Seite der Bilanz zu 50% aus Fremd und zu 50% aus Eigenkapital bestehen soll um die Liquidität eines Unternehmens zu sichern.",
-    "sfld": "Was ist die Vertikale Kapitalstrukturregel?",
-    "media": [],
-    "front": "Was ist die Vertikale Kapitalstrukturregel?",
+    "tags": ["Finanzierung"],
+    "title": "Was ist die Vertikale Kapitalstrukturregel?",
     "back": "Was ist die&nbsp;Vertikale Kapitalstrukturregel?\nDie vertikale Kapitalstrukturregel besagt das die passive Seite der Bilanz zu 50% aus Fremd und zu 50% aus Eigenkapital bestehen soll um die Liquidität eines Unternehmens zu sichern."
   },
   {
-    "id": 1606309586481,
-    "flds": "Was ist die Goldene Bilanzregel (Fristenkongruenz)?\u001f<span style=\"color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px;\">Die&nbsp;</span><span style=\"font-weight: bolder; color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px;\">goldenen Bilanzregel</span><span style=\"color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px;\">&nbsp;fordert, dass die langfristig an das Unternehmen gebundenen Anlagegüter durch langfristiges Kapital - in erster Linie durch Eigenkapital - gedeckt sein müssen, während das Umlaufvermögen durch kurzfristiges Kapital gedeckt sein kann.</span><br>",
-    "sfld": "Was ist die Goldene Bilanzregel (Fristenkongruenz)?",
-    "media": [],
-    "front": "Was ist die Goldene Bilanzregel (Fristenkongruenz)?",
+    "tags": ["Finanzierung"],
+    "title": "Was ist die Goldene Bilanzregel (Fristenkongruenz)?",
     "back": "Was ist die Goldene Bilanzregel (Fristenkongruenz)?\nDie&nbsp;goldenen Bilanzregel&nbsp;fordert, dass die langfristig an das Unternehmen gebundenen Anlagegüter durch langfristiges Kapital - in erster Linie durch Eigenkapital - gedeckt sein müssen, während das Umlaufvermögen durch kurzfristiges Kapital gedeckt sein kann."
   },
   {
-    "id": 1606309838646,
-    "flds": "Was ist mit Finanzierung durch Abschreibungen gemeint?\u001fWenn ein Unternehmen eine Maschine kauft, verliert diese über ihre Nutzungsdauer ihren Wert. Dieser Wertverlust wird durch Abschreibungen abgebildet. Da dieser Wertverlust mit Produktpreisen (z.B.) ausgeglichen wird ersteht hier neues Kapital für das Unternehmen. Diese Kapital kann zur Finanzierung eingesetzt werden.&nbsp;",
-    "sfld": "Was ist mit Finanzierung durch Abschreibungen gemeint?",
-    "media": [],
-    "front": "Was ist mit Finanzierung durch Abschreibungen gemeint?",
+    "tags": ["Finanzierung"],
+    "title": "Was ist mit Finanzierung durch Abschreibungen gemeint?",
     "back": "Was ist mit Finanzierung durch Abschreibungen gemeint?\nWenn ein Unternehmen eine Maschine kauft, verliert diese über ihre Nutzungsdauer ihren Wert. Dieser Wertverlust wird durch Abschreibungen abgebildet. Da dieser Wertverlust mit Produktpreisen (z.B.) ausgeglichen wird ersteht hier neues Kapital für das Unternehmen. Diese Kapital kann zur Finanzierung eingesetzt werden.&nbsp;"
   },
   {
-    "id": 1606310185457,
-    "flds": "Welcher Arten der Außenfinanzierung gibt es?\u001fBankdarlehen, Lieferantenkredite, Kundenanzahlungen, Leasing",
-    "sfld": "Welcher Arten der Außenfinanzierung gibt es?",
-    "media": [],
-    "front": "Welcher Arten der Außenfinanzierung gibt es?",
+    "tags": ["Finanzierung"],
+    "title": "Welcher Arten der Außenfinanzierung gibt es?",
     "back": "Welcher Arten der Außenfinanzierung gibt es?\nBankdarlehen, Lieferantenkredite, Kundenanzahlungen, Leasing"
   },
   {
-    "id": 1606310417465,
-    "flds": "Welche Arten der Innenfinanzierung gibt es?\u001fFinanzierung aus Abschreibungen, Rationalisierungsmaßnahmen, Einbehaltung von Gewinnen, Bildung von Rückstellungen, Umschichtung von Vermögenswerten.",
-    "sfld": "Welche Arten der Innenfinanzierung gibt es?",
-    "media": [],
-    "front": "Welche Arten der Innenfinanzierung gibt es?",
+    "tags": ["Finanzierung"],
+    "title": "Welche Arten der Innenfinanzierung gibt es?",
     "back": "Welche Arten der Innenfinanzierung gibt es?\nFinanzierung aus Abschreibungen, Rationalisierungsmaßnahmen, Einbehaltung von Gewinnen, Bildung von Rückstellungen, Umschichtung von Vermögenswerten."
   },
   {
-    "id": 1606310499786,
-    "flds": "Welche 5 wichtigen Regeln gibt es in der Entscheidungstheorie\u001fMinimax, Maximax, Savage-Niehans, Hurwicz, Laplace",
-    "sfld": "Welche 5 wichtigen Regeln gibt es in der Entscheidungstheorie",
-    "media": [],
-    "front": "Welche 5 wichtigen Regeln gibt es in der Entscheidungstheorie",
+    "tags": ["Entscheidungstheorie"],
+    "title": "Welche 5 wichtigen Regeln gibt es in der Entscheidungstheorie",
     "back": "Welche 5 wichtigen Regeln gibt es in der Entscheidungstheorie\nMinimax, Maximax, Savage-Niehans, Hurwicz, Laplace"
   },
   {
-    "id": 1606310575224,
-    "flds": "Was genau sagt die Minimax Regel aus?\u001fDie Minimax Regel berechnet das schlecht möglichste Ergebnis für diversen Entscheidungen und wählt die Entscheidung mit dem besten schlechten Ergebnis.",
-    "sfld": "Was genau sagt die Minimax Regel aus?",
-    "media": [],
-    "front": "Was genau sagt die Minimax Regel aus?",
+    "tags": ["Entscheidungstheorie"],
+    "title": "Was genau sagt die Minimax Regel aus?",
     "back": "Was genau sagt die Minimax Regel aus?\nDie Minimax Regel berechnet das schlecht möglichste Ergebnis für diversen Entscheidungen und wählt die Entscheidung mit dem besten schlechten Ergebnis."
   },
   {
-    "id": 1606310644513,
-    "flds": "Was genau sagt die Maximax Regel aus?\u001fDie Maximax Regel ist seehr optimistisch. Sie errechnet für alle möglichen Entscheidungen das best mögliche Ergebnis und wählt die Entscheidung mit dem besten bestmöglichen Ergebnis.",
-    "sfld": "Was genau sagt die Maximax Regel aus?",
-    "media": [],
-    "front": "Was genau sagt die Maximax Regel aus?",
+    "tags": ["Entscheidungstheorie"],
+    "title": "Was genau sagt die Maximax Regel aus?",
     "back": "Was genau sagt die Maximax Regel aus?\nDie Maximax Regel ist seehr optimistisch. Sie errechnet für alle möglichen Entscheidungen das best mögliche Ergebnis und wählt die Entscheidung mit dem besten bestmöglichen Ergebnis."
   },
   {
-    "id": 1606310701341,
-    "flds": "Was genau sagt die Hurwicz-Regel aus?\u001fIm Grunde vereint die&nbsp;Hurwicz-Regel die Minimax und Maximax Regel, indem sie anhand eines Optimismus Parameter zwischen diesen beiden interpoliert.",
-    "sfld": "Was genau sagt die Hurwicz-Regel aus?",
-    "media": [],
-    "front": "Was genau sagt die Hurwicz-Regel aus?",
+    "tags": ["Entscheidungstheorie"],
+    "title": "Was genau sagt die Hurwicz-Regel aus?",
     "back": "Was genau sagt die Hurwicz-Regel aus?\nIm Grunde vereint die&nbsp;Hurwicz-Regel die Minimax und Maximax Regel, indem sie anhand eines Optimismus Parameter zwischen diesen beiden interpoliert."
   },
   {
-    "id": 1606310865423,
-    "flds": "Was genau sagt Savage-Niehans Regel aus?\u001fDie Savage-Niehans Regel wird auch als Minimax-Regret Regel bezeichnet. Sie rechnet für alle Umweltzustände und Aktionen das \"Bedauern\" aus, dies ist die Entfernung zum Optimalen Ergebnis eines Umweltzustandes. Für alle Aktionen wird das Bedauern summiert und die Aktion mit dem geringsten Bedauern gewählt.",
-    "sfld": "Was genau sagt Savage-Niehans Regel aus?",
-    "media": [],
-    "front": "Was genau sagt Savage-Niehans Regel aus?",
+    "tags": ["Entscheidungstheorie"],
+    "title": "Was genau sagt Savage-Niehans Regel aus?",
     "back": "Was genau sagt Savage-Niehans Regel aus?\nDie Savage-Niehans Regel wird auch als Minimax-Regret Regel bezeichnet. Sie rechnet für alle Umweltzustände und Aktionen das \"Bedauern\" aus, dies ist die Entfernung zum Optimalen Ergebnis eines Umweltzustandes. Für alle Aktionen wird das Bedauern summiert und die Aktion mit dem geringsten Bedauern gewählt."
   },
   {
-    "id": 1606310966806,
-    "flds": "Was genau sagt die Laplace-Regel aus?\u001fDie Laplace-Regel berechnet das durchschnittliche Ergebnis für eine Aktion aus, indem sie davon ausgeht das alle Umweltzustände mit derselben Wahrscheinlichkeit eintreten werde. Dann wählt man die Aktion mit dem höchsten durchschnittlichen Ergebnis aus.",
-    "sfld": "Was genau sagt die Laplace-Regel aus?",
-    "media": [],
-    "front": "Was genau sagt die Laplace-Regel aus?",
+    "tags": ["Entscheidungstheorie"],
+    "title": "Was genau sagt die Laplace-Regel aus?",
     "back": "Was genau sagt die Laplace-Regel aus?\nDie Laplace-Regel berechnet das durchschnittliche Ergebnis für eine Aktion aus, indem sie davon ausgeht das alle Umweltzustände mit derselben Wahrscheinlichkeit eintreten werde. Dann wählt man die Aktion mit dem höchsten durchschnittlichen Ergebnis aus."
   },
   {
-    "id": 1606311074808,
-    "flds": "Was verteilt der BaB auf was?\u001fDer BaB verteilt die Kostenarten (Lohn, Materialkosten) auf die Kostenstellen (Verwaltung, Fertigung) auf",
-    "sfld": "Was verteilt der BaB auf was?",
-    "media": [],
-    "front": "Was verteilt der BaB auf was?",
+    "tags": ["Rechnungswesen"],
+    "title": "Was verteilt der BaB auf was?",
     "back": "Was verteilt der BaB auf was?\nDer BaB verteilt die Kostenarten (Lohn, Materialkosten) auf die Kostenstellen (Verwaltung, Fertigung) auf"
   },
   {
-    "id": 1606311143957,
-    "flds": "Was genau sind Gemeinkosten im Bezug auf den BaB?\u001fGemeinkosten sind Kostenarten die sich nicht zu 100% einer Kostenstelle zuordnen lassen und nach einem bestimmten Schlüssel aufgeteilt werden müssen.",
-    "sfld": "Was genau sind Gemeinkosten im Bezug auf den BaB?",
-    "media": [],
-    "front": "Was genau sind Gemeinkosten im Bezug auf den BaB?",
+    "tags": ["Rechnungswesen"],
+    "title": "Was genau sind Gemeinkosten im Bezug auf den BaB?",
     "back": "Was genau sind Gemeinkosten im Bezug auf den BaB?\nGemeinkosten sind Kostenarten die sich nicht zu 100% einer Kostenstelle zuordnen lassen und nach einem bestimmten Schlüssel aufgeteilt werden müssen."
   },
   {
-    "id": 1606311205474,
-    "flds": "Was genau sind Einzelkosten im Bezug auf den BaB?\u001fEinzelkosten sind Kostenarten die sich zu 100% einer bestimmten Kostenstelle zuordnen lassen z.B. lassen sich Fertigungslöhne zu 100% der Fertigung zuordnen.",
-    "sfld": "Was genau sind Einzelkosten im Bezug auf den BaB?",
-    "media": [],
-    "front": "Was genau sind Einzelkosten im Bezug auf den BaB?",
+    "tags": ["Rechnungswesen"],
+    "title": "Was genau sind Einzelkosten im Bezug auf den BaB?",
     "back": "Was genau sind Einzelkosten im Bezug auf den BaB?\nEinzelkosten sind Kostenarten die sich zu 100% einer bestimmten Kostenstelle zuordnen lassen z.B. lassen sich Fertigungslöhne zu 100% der Fertigung zuordnen."
   },
   {
-    "id": 1606311298425,
-    "flds": "Was sind variable Kosten?\u001fVariable Kosten fallen pro produzierte Einheit ein. d.h. wenn ich mehr produziere muss z.B. mehr Material kaufen, das wären variable Kosten.",
-    "sfld": "Was sind variable Kosten?",
-    "media": [],
-    "front": "Was sind variable Kosten?",
+    "tags": ["Rechnungswesen"],
+    "title": "Was sind variable Kosten?",
     "back": "Was sind variable Kosten?\nVariable Kosten fallen pro produzierte Einheit ein. d.h. wenn ich mehr produziere muss z.B. mehr Material kaufen, das wären variable Kosten."
   },
   {
-    "id": 1606311373076,
-    "flds": "Was sind fixe Kosten?\u001fFixkosten beziehen sich auf Ausgaben die ein Unternehmen unabhängig von der Menge produzierter Güter hat. Zum Beispiel Heizkosten oder das Abschreiben von Maschinen.",
-    "sfld": "Was sind fixe Kosten?",
-    "media": [],
-    "front": "Was sind fixe Kosten?",
+    "tags": ["Rechnungswesen"],
+    "title": "Was sind fixe Kosten?",
     "back": "Was sind fixe Kosten?\nFixkosten beziehen sich auf Ausgaben die ein Unternehmen unabhängig von der Menge produzierter Güter hat. Zum Beispiel Heizkosten oder das Abschreiben von Maschinen."
   },
   {
-    "id": 1606311580033,
-    "flds": "Welche der folgenden Kostenstellen sind fixe und welche variabel?<div><br>- Draht zum produzieren von Zaun<br>- Wartungskosten<br>- Mieten, Leasing<div>- Transportkosten<br>- Akkordlöhne</div><div>-&nbsp;Löhne/Gehälter</div><div>- Energiekosten (Heizung)<br><span style=\"color: rgb(247, 247, 244); font-family: HaufeMerriweather, serif; font-size: 0px; background-color: rgb(247, 247, 244);\">Mieten, Leasingkosten</span><span style=\"color: rgb(247, 247, 244); font-family: HaufeMerriweather, serif; font-size: 0px; background-color: rgb(247, 247, 244);\">Mieten, Leasingkosten</span><br></div></div>\u001f[V] Draht zum produzieren von Zaun<br>[F] Wartungskosten<br>[F]&nbsp;Mieten, Leasing<br><div>[V] Transportkosten<br>[V]&nbsp;Akkordlöhne</div><div>[F] Löhne/Gehälter</div><div>[F] Energiekosten (Heizung)</div>",
-    "sfld": "Welche der folgenden Kostenstellen sind fixe und welche variabel?- Draht zum produzieren von Zaun- Wartungskosten- Mieten, Leasing- Transportkosten- Akkordlöhne- Löhne/Gehälter- Energiekosten (Heizung)Mieten, LeasingkostenMieten, Leasingkosten",
-    "media": [],
-    "front": "Welche der folgenden Kostenstellen sind fixe und welche variabel?- Draht zum produzieren von Zaun- Wartungskosten- Mieten, Leasing- Transportkosten- Akkordlöhne- Löhne/Gehälter- Energiekosten (Heizung)Mieten, LeasingkostenMieten, Leasingkosten",
-    "back": "Welche der folgenden Kostenstellen sind fixe und welche variabel?\n\n- Draht zum produzieren von Zaun- Wartungskosten- Mieten, Leasing- Transportkosten- Akkordlöhne-&nbsp;Löhne/Gehälter- Energiekosten (Heizung)Mieten, LeasingkostenMieten, Leasingkosten\n[V] Draht zum produzieren von Zaun[F] Wartungskosten[F]&nbsp;Mieten, Leasing[V] Transportkosten[V]&nbsp;Akkordlöhne[F] Löhne/Gehälter[F] Energiekosten (Heizung)"
+    "tags": ["Rechnungswesen"],
+    "title": "Welche der folgenden Kostenstellen sind fixe und welche variabel? <br> - Draht zum produzieren von Zaun <br> - Wartungskosten <br> - Mieten - <br> Leasing <br> - Transportkosten <br> - Akkordlöhne <br> - Löhne/Gehälter <br> - Energiekosten (Heizung)",
+    "back": "[V] Draht zum produzieren von Zaun <br> [F] Wartungskosten <br> [F]Mieten, Leasing <br> [V] Transportkosten <br> [V] Akkordlöhne <br> [F] Löhne/Gehälter <br> [F] Energiekosten (Heizung)"
   },
   {
-    "id": 1606311728952,
-    "flds": "Was genau bedeuten die Variablen <b>K</b>, <b>Kf</b>, <b>Kv</b>, <b>k</b>,&nbsp;<b>kv</b> und <b>kf</b>?\u001f<p><strong>K -</strong> Gesamtkosten</p>\n<p><strong>Kf</strong> - Gesamte Fixkosten</p>\n<p><strong>Kv</strong> - Gesamt Variablekosten</p>\n<p><strong>k</strong> - Kosten Pro Stück (Gesamtkosten geteilt durch Stückzahl)</p>\n<p><strong>kv</strong> - Variable Stückkosten</p>\n<p><strong>kf</strong> - Fixe Stückkosten</p>",
-    "sfld": "Was genau bedeuten die Variablen K, Kf, Kv, k, kv und kf?",
-    "media": [],
-    "front": "Was genau bedeuten die Variablen K, Kf, Kv, k, kv und kf?",
+    "tags": ["Rechnungswesen"],
+    "title": "Was genau bedeuten die Variablen K, Kf, Kv, k, kv und kf?",
     "back": "Was genau bedeuten die Variablen K, Kf, Kv, k,&nbsp;kv und kf?\nK - Gesamtkosten\nKf - Gesamte Fixkosten\nKv - Gesamt Variablekosten\nk - Kosten Pro Stück (Gesamtkosten geteilt durch Stückzahl)\nkv - Variable Stückkosten\nkf - Fixe Stückkosten"
   },
   {
-    "id": 1606311993272,
-    "flds": "Wie können variable Kosten im Verhältnis zu Stückzahl stehen?\u001f<div>Proportional</div><div>- Mit steigender Stückzahl bleiben meine variablen Stückkosten immer gleich</div><div>Überproportional&nbsp; (progressiv)</div><div>- Mit steigender Stückzahl wachsen meine variablen Stückkosten an</div><div>Unterproportional&nbsp;(degressiv)</div><div>- Mit steigender Stückzahl nehmen meine variablen Stückkosten ab<br></div>",
-    "sfld": "Wie können variable Kosten im Verhältnis zu Stückzahl stehen?",
-    "media": [],
-    "front": "Wie können variable Kosten im Verhältnis zu Stückzahl stehen?",
+    "tags": ["Rechnungswesen"],
+    "title": "Wie können variable Kosten im Verhältnis zu Stückzahl stehen?",
     "back": "Wie können variable Kosten im Verhältnis zu Stückzahl stehen?\n\nProportional- Mit steigender Stückzahl bleiben meine variablen Stückkosten immer gleichÜberproportional&nbsp; (progressiv)- Mit steigender Stückzahl wachsen meine variablen Stückkosten anUnterproportional&nbsp;(degressiv)- Mit steigender Stückzahl nehmen meine variablen Stückkosten ab"
   }
 ]

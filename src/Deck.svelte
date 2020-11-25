@@ -4,8 +4,9 @@
 
   interface Card {
     back: string;
-    front: string;
-    id: number;
+    title: string;
+    tags: string[];
+    id: string;
   }
 
   export let cards: Card[];
@@ -51,7 +52,11 @@
     if (deckId in localStorage) {
       const s = localStorage.getItem(deckId);
       try {
-        votes = JSON.parse(s);
+        Object.entries(JSON.parse(s))
+          .filter(([id]) => cards.find((c) => c.id === id))
+          .forEach(([id, value]: [string, number]) => {
+            votes[id] = value;
+          });
       } catch (error) {
         console.error(error);
         alert("Could not parse localStorage");
@@ -62,7 +67,7 @@
     cards.forEach((card) => {
       if (!(card.id in votes)) {
         needsSave = true;
-        votes[card.id.toString()] = 0;
+        votes[card.id] = 0;
       }
     });
 
@@ -82,7 +87,7 @@
     const sortedVotes = Object.entries(votes)
       .map(([id, vote]) => {
         return {
-          id: parseInt(id),
+          id,
           value: vote,
         };
       })
@@ -92,12 +97,15 @@
 
     currentPercent =
       (sortedVotes.reduce((a, b) => a + b.value, 0) / (cards.length * 3)) * 100;
-
-    console.log(activeCard);
   };
 
+  const assureID = (c: Card[]) =>
+    c.map((card) => {
+      return { ...card, id: card.id || hash(card.title) };
+    });
+
   onMount(() => {
-    cards = shuffle(cards);
+    cards = assureID(shuffle(cards));
     loadVotes();
     pickNewCard();
   });
@@ -115,11 +123,6 @@
     left: 0;
     width: 100vw;
     height: 40px;
-  }
-
-  #progress-bar > p {
-    height: 100%;
-    line-height: 100%;
   }
 
   #bar {
@@ -208,14 +211,12 @@
   <div class="content">
     {#if activeCard}
       <h2>
-        {@html activeCard.flds.split('\u001f')[0]}
+        {@html activeCard.title}
       </h2>
 
       {#if showBack}
         <p>
-          {@html activeCard.flds
-            .split('\u001f')[1]
-            .replace(activeCard.front, '')}
+          {@html activeCard.back}
         </p>
         <button on:click={() => addVote(activeCard.id, 0)}>Keine Ahnung</button>
         <button on:click={() => addVote(activeCard.id, 2)}>Okay...</button>
@@ -233,7 +234,7 @@
     <div class="cards">
       {#each cards as card}
         <div class="card">
-          <p class="card-title">{card.front}</p>
+          <p class="card-title">{card.title}</p>
 
           {#if card.id in votes}
             <p>{Math.floor((votes[card.id] / 3) * 100)}%</p>
