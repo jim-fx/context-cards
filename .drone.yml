@@ -1,9 +1,6 @@
 name: default
 kind: pipeline
 
-clone:
-  disable: true
-
 steps:
   - name: restore-cache
     image: drillster/drone-volume-cache
