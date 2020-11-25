@@ -2,15 +2,6 @@ name: default
 kind: pipeline
 
 steps:
-  - name: restore-cache
-    image: drillster/drone-volume-cache
-    volumes:
-      - name: cache
-        path: /cache
-    settings:
-      restore: true
-      mount:
-        - .
   - name: build-components
     image: node:alpine
     commands:
@@ -26,15 +17,6 @@ steps:
     commands:
       - cd public
       - lftp -e "set sftp:auto-confirm true; set ftp:ssl-force true; set xfer:timeout 10000; open -u $FTP_USERNAME,$FTP_PASSWORD sftp://jim-fx.com:2221; cd share; mkdir -f cards; cd cards; mirror -p --scan-all-first --overwrite --verbose -R --skip-noaccess; quit;"
-  - name: rebuild-cache
-    image: drillster/drone-volume-cache
-    volumes:
-      - name: cache
-        path: /cache
-    settings:
-      rebuild: true
-      mount:
-        - .
 volumes:
   - name: cache
     host:
